@@ -12,7 +12,16 @@
 
 ## Screenshots
 
-*Include screenshots of your app here.*
+### Home and Account Page
+| Home Page | Account Page |
+|-----------|--------------|
+| ![Home Page](DemoSS/Home%20Page.png) | ![Account Page](DemoSS/Account%20Page.png) |
+
+### Rewards and Settings Page
+| Rewards Page | Settings Page |
+|--------------|---------------|
+| ![Rewards Page](DemoSS/Rewards%20Page.png) | ![Settings Page](DemoSS/Settings%20Page%20(2).png) |
+
 
 ## Getting Started
 
