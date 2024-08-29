@@ -1,4 +1,5 @@
 # EduSocial
+![Logo](DemoSS/logo.png)
 
 **EduSocial** is a social media platform built using Expo, designed to connect students, educators, and educational communities. This platform allows users to share posts, engage with educational content, and connect with others in the academic sphere.
 
